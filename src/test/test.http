@@ -1,0 +1,15 @@
+###
+GET http://localhost:8080/YS
+###
+GET http://localhost:8080/hello
+
+###
+POST http://localhost:8080/YSpost
+
+###
+GET http://naver.com
+
+###
+GET http://www.moomoo.dev:3000/
+###
+GET http://www.moomoo.dev:8080/
